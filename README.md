@@ -18,6 +18,7 @@
 ```
 
 ## concepts
+
 - ✅ Setting up your Go project
 - 🔐 Creating user registration with hashed passwords
 - 🔑 Logging in and generating JWT tokens
