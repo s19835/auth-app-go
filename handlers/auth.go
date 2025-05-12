@@ -37,3 +37,7 @@ func Register(w http.ResponseWriter, r *http.Request) {
 	w.WriteHeader(http.StatusCreated)
 	w.Write([]byte("User register successfully✨"))
 }
+
+func Login(w http.ResponseWriter, r *http.Request) {
+	w.Write([]byte("Login"))
+}
